@@ -1,0 +1,8 @@
+{
+	"user": "devbluen",
+	"repo": "wazegps-samp",
+	"entry": "tests.pwn",
+	"output": "tests.amx",
+	"dependencies": ["sampctl/pawn-stdlib", "AmyrAhmady/samp-gps-plugin:1.4.0"],
+	"include_path": "include"
+}
