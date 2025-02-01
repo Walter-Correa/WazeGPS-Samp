@@ -5,6 +5,11 @@ This is a system inspired by GTA V where it will create a route to the selected 
 - [@GPS Plugin](https://github.com/kristoisberg/samp-gps-plugin) **Download Version 1.4.0 of the Plugin, as 1.4.1 has a loading Error!**
 
 ## How to install?
+
+### sampctl
+Simply run `sampctl install devbluen/wazegps-samp`. Done.
+
+### Legacy method
 - Add the WazeGPS include to the **"Pawno > Includes"** folder
 - Write **#include \<GPS\>** in your gamemode
 - Write **#include \<WazeGPS\>** in your gamemode
