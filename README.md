@@ -3,6 +3,7 @@ This is a system inspired by GTA V where it will create a route to the selected 
 
 ## Dependencies
 - [@GPS Plugin](https://github.com/kristoisberg/samp-gps-plugin)
+- [@samp-player-gangzones](https://github.com/AmyrAhmady/samp-player-gangzones) (Optional, but allows long routes to appear completely on the map without limits)
 
 ## How to install?
 
